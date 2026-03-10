@@ -1,0 +1,15 @@
+# Obsidian system folder (keeps workspace and internal cache out of Git)
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/cache/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Mobile specific sync files (if using Syncthing or similar)
+.stfolder/
+.stversions/
+
+# Optional: If you want to keep plugins/themes but NOT their specific data
+# .obsidian/plugins/*/data.json
