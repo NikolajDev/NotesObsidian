@@ -4,3 +4,4 @@ Automatically commiting after 1 minute of not writing or interacting with the ap
 
 Changing this from the PC a trying to setup an plugins and test it out
 
+
