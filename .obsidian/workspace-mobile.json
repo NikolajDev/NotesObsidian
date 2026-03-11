@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Note.md",
+                "file": "LICENSE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "New Note"
+              "title": "LICENSE"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "New Note.md",
+            "file": "LICENSE.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "New Note.md",
+            "file": "LICENSE.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -145,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "New Note.md",
+            "file": "LICENSE.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -171,6 +171,7 @@
   },
   "active": "14e3f674493b2b43",
   "lastOpenFiles": [
-    "New Note.md"
+    "New Note.md",
+    "README.md"
   ]
 }

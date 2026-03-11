@@ -1,2 +1,3 @@
 
-Testing if the git will work or not, I hope it does 
+
+Automatically commiting after 1 minute of not writing or interacting with the app so this is just testing note.
