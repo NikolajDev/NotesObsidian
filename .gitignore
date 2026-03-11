@@ -1,15 +1,16 @@
-# Obsidian system folder (keeps workspace and internal cache out of Git)
-.obsidian/workspace
+# Obsidian systémové súbory (uložené v .obsidian priečinku)
 .obsidian/workspace.json
-.obsidian/cache/
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/appearance.json
+.obsidian/hotkeys.json
 
-# OS generated files
+# Cache a dočasné súbory
 .DS_Store
 Thumbs.db
+node_modules/
+.trash/
 
-# Mobile specific sync files (if using Syncthing or similar)
-.stfolder/
-.stversions/
-
-# Optional: If you want to keep plugins/themes but NOT their specific data
-# .obsidian/plugins/*/data.json
+# Voliteľné: Ak nechceš synchronizovať pluginy (odporúčam ich synchronizovať, ak chceš rovnaký zážitok na PC aj mobile)
+# Ak by si ich chcel ignorovať, odkomentuj riadok nižšie:
+# .obsidian/plugins/
