@@ -5,4 +5,4 @@ Milujem ta a dobre rano bobinka moja
 def ahoj():
 print("Ahoj svet")
 ahoj()
-```
+```mi
