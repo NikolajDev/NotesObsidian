@@ -2,5 +2,7 @@
   "obsidian-git",
   "obsidian-excalidraw-plugin",
   "obsidian-icon-folder",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-minimal-settings",
+  "highlightr-plugin"
 ]
